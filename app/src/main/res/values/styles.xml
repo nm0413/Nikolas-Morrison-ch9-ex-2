@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- Theme for testing purposes -->
+    <style name="Theme.CriminalIntent" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme for testing here -->
+    </style>
+
+</resources>
